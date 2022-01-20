@@ -1,38 +1,24 @@
-# ✨ Hi, I am Zlorw
+<h1 align="center">Merhaba 👋, ben Zlorw</h1>
+<h3 align="center">Merhaba Hamza 18 yaşındayım Türkiye'de yaşıyorum kodlamaya yeni başlıyorum</h3>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Zl0rWw&color=dc143c"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zl0rww&label=Profile%20views&color=0e75b6&style=flat" alt="zl0rww" /> </p>
 
-<div align="center">
-    <a href="https://discord.com/users/572513937010982961" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/572513937010982961"></a>
-</div>
+<p align=" sol"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zl0rww " alt="zl0rww" /></a> </p>
 
-## ⚡ Contact
+<p align="left"> <a href="https://twitter.com/zl0rw" target="blank"><img src=" https://img.shields.io/twitter/follow/zl0rw?logo=twitter&style=for-the-badge" alt="zl0rw" /></a> </p>
 
-<div align="center">
-    <a href="https://discord.com/users/572513937010982961" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Zl0rWw" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~Zl0rWw" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/UEPcFtytcc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://zlorw.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
-</div>
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://twitter.com/zl0rw" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="zl0rw" height="30" width="40" /></a>
+<a href="https://instagram.com/hamzablnn " target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="hamzablnn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc3ahaar8y9eav7y0esyo6tq" target="boş"><img hizala ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc3ahaar8y9eav7y0esyo6tq" height="30" width="40" /></a>
+< /p>
 
-## 💻 Technologies I Use
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href= "https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop -line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/ > </a> </p>
 
-<div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
-    <img alt="Vue.js" align="center" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white"/>
-    <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-    <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zl0rww&show_icons=true&locale=en&layout=compact" alt="zl0rww" /> </p>
 
-## 📈 Github Stats
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zl0rww&show_icons=true&locale=en" alt="zl0rww" /> </p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zl0rww&" alt="zl0rww" /></p>
