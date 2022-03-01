@@ -1,7 +1,6 @@
 [![ZLORW](https://media.discordapp.net/attachments/800009379868180494/948287775403302983/zlorw_banner.png)](https://github.com/Zl0rWw/)
 
 <div align="center"> 
-<h3>Contact İnformation</h3>
 <a href="https://discord.com/users/572513937010982961" target"blank_"><img src="https://img.shields.io/badge/ZLORW%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/2lmyi3bure5ovkwbmgjettom5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC3AHAar8Y9EaV7y0eSyo6tQ" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
