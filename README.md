@@ -8,7 +8,6 @@
 </div>
 
 <h1 align="center">Merhaba 👋, ben Zlorw</h1>
-<h3 align="center">Merhaba Hamza 18 yaşındayım Türkiye'de yaşıyorum kodlamaya yeni başlıyorum</h3>
 
 <div align="center">
 <h3>Github Stats</h3>
